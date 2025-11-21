@@ -1,0 +1,11 @@
+Use these prompts as starter prompts for Copilot based table creation
+
+
+Affordable Housing Demo Prompt 1: 
+
+Create a table for affordable housing applications that includes fields like applicant name, contact details, income level, household size, preferred housing type, and application status.
+
+
+Affordable Housing Demo Prompt 2: 
+
+Create multiple tables for an affordable housing program. One table for applicants, with fields like name, contact, income, and household size. Another table for properties, with fields for address, unit type, rental cost, and availability. And a third table to track applications, linking the applicant to a property and including fields for status updates and approval dates.
