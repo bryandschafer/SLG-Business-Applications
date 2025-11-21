@@ -1,10 +1,44 @@
-Overview
+🏠 Affordable Housing Data Accelerator
 
-This repository provides a complete solution for building and exploring a sample application using Microsoft Power Platform. 
+📌 Overview
+This repository provides an accelerator for building and exploring a sample application that captures affordable housing data.
+It serves as a starting point for:
+  Extending the schema
+  Enhancing the model-driven application
+  Building additional user interfaces, automations, and integrations
 
-It includes:
+Includes the sample app and schema for quick deployment
+Schema Definition - Defines the data structure for the application
+Lab Guides - Step-by-step instructions for hands-on learningSample DataPre-populated data for testing and demonstrations
 
-Solution File: Contains the sample app and schema for quick deployment.
-Schema Definition File: Defines the data structure for the application.
-Lab Guides: Step-by-step instructions for hands-on learning.
-Sample Data Spreadsheets: Pre-populated data for testing and demonstrations.
+✅ Lab Guide Topics
+
+Power Automate
+Model-Driven Application
+Table Creation
+Forms and Views
+
+
+🚀 Getting Started
+
+Import the Solution File into your environment.
+Review the Schema Definition for data structure details.
+Follow the Lab Guides to build and customize your application.
+Use Sample Data to validate and demonstrate functionality.
+
+
+🔗 Resources
+
+https://learn.microsoft.com/power-platform
+https://learn.microsoft.com/power-apps/maker/data-platform/data-platform-intro
+
+
+🛠 Prerequisites
+
+Microsoft Power Apps environment
+Power Automate license
+Basic understanding of Dataverse tables and forms
+
+
+🤝 Contributing
+Contributions are welcome! Please fork the repo and submit a pull request.
